@@ -1,2 +1,2 @@
 __init__
-print "Hello WORLD!!"
+print "Hello WORLD!!!"
